@@ -1,7 +1,7 @@
 
 # CARRS-Q ADS Driving Simulator
 
-![Main Menue](... "CARRSQ ADS Driving Simulator")
+![Main Menue](https://github.com/carrs-q/IVAD-Simulator/blob/master/Operator%20Documentation/MainMenue.png "CARRSQ ADS Driving Simulator")
 
 This Software is written at CARRS-Q to run research studies for autonomous driving vehicles, 
 with focus on AES Level 3. 
