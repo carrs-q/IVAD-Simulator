@@ -27,31 +27,26 @@ Schroeter, R., & Gerber, M. A. (2018). A Low-Cost VR-Based Automated Driving Sim
 
 ---
 ### Requirements
-* Nvidia GTX1080 or better
+* Nvidia GTX1080 TI or better
 * SSD or NVMe (~ 10GB per scenario, if local 20GB )
 * 8GB RAM
 * Windows 10
-* VR-Mode requires Oculus Rift
+* VR-Mode requires Oculus Rift. 
+  (You can use others as well, but requires changes in Unity) 
 * HDMI Video Capture Card - (HDMI to USB3)
 
-### Setup
-1. Compile with Unity 2017
-2. Install NPM and NodeJS
-3. Run CDN (If not installed, install dependencies with ```npm install```)
-4. Check config-file for Simulator in ```/ADS Simulator_Data/StreamingAssets/node-config.xml```
-5. Run ADS Simulator
-6. Choose Simulator-Type (top left)
+---
+### Content Creation
+See ACM AutoUI '19 Paper to check Setup for content creation:
+"A Low-Cost VR-Based Automated Driving Simulator for Rapid Automotive UI Prototyping"
 
-### Config File (possible values)
-If the config files contains  
-node type: **master | slave** (Cluster Master, VR | Cluster Slave)  
-node screen: **1 - 5** rendered Camera   
-node debug: **0 | 1** (OFF|ON) for Cluster  
-server ip: **IP.v4** (IP of Cluster Master)  
-server port: **PORTNR** (Port of Cluster Master)  
-cdn address: **HTTP ADDRESS of CDN** (with Port)  
-hdmi video: **Name of Video Capture device** (Hardware name)  
-hdmi audio: **Name of Audio Capture device** (Hardware name)  
+---
+### Software
+Find in this repository an already compiled version  
+  
+Source:
+[Unity Driving Simulator Unity](https://github.com/carrs-q/ADS-Driving-Simulator)  
+NodeJS [Content Delivery Network](https://github.com/carrs-q/VideoWallCDN) (Required to run software)
 
 ---
 ### Licence
