@@ -46,7 +46,7 @@ Find in this repository a compiled version to run on Windows (requires still CDN
   
 Source:
 [Unity Driving Simulator Unity](https://github.com/carrs-q/ADS-Driving-Simulator)  
-NodeJS [Content Delivery Network](https://github.com/carrs-q/VideoWallCDN) (Required to run software)
+NodeJS [Content Delivery Network](https://github.com/carrs-q/VideoWallCDN) (required to run software)
 
 ---
 ### Sample Scenario
