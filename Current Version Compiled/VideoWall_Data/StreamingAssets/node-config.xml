@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node type="master" screen="1" debug="1">
+    <server ip="127.0.0.1" port="25000"/>
+    <cdn address="http://127.0.0.1:1605"/>
+    <hdmi video="USB3.0 Capture Video" audio="Digital Audio Interface (USB3.0 Capture Audio)"/>
+    <setup side="left"/>
+</node>
