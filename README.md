@@ -42,11 +42,16 @@ See ACM AutoUI '19 Paper to check Setup for content creation:
 
 ---
 ### Software
-Find in this repository an already compiled version  
+Find in this repository a compiled version to run on Windows (requires still CDN for the files)
   
 Source:
 [Unity Driving Simulator Unity](https://github.com/carrs-q/ADS-Driving-Simulator)  
 NodeJS [Content Delivery Network](https://github.com/carrs-q/VideoWallCDN) (Required to run software)
+
+---
+### Sample Scenario
+
+A example scenario will be published here soon. 
 
 ---
 ### Licence
